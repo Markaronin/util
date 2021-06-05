@@ -1,0 +1,23 @@
+{
+  "name": "@markaronin/jefferson-util",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Jefferson Roylance <jmarkroylance@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markaronin/util.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Markaronin/util/issues"
+  },
+  "homepage": "https://github.com/Markaronin/util#readme",
+  "description": ""
+}
